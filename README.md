@@ -1,1 +1,1 @@
-# training-node-basics
+# training-techinical-challenge
